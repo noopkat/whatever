@@ -1,0 +1,100 @@
+/* 
+ * Thanks Brad Frost 
+ * http://codepen.io/bradfrost/pen/xkcBn
+*/
+
+.g {
+  padding: 0.25em;
+  overflow: hidden;
+  margin: 0px;
+}
+
+.g li {
+  position: relative;
+  float: left;
+  width: 40%;
+  margin: 0.25em;
+  padding: 0;
+  list-style-type: none;
+  background-color: #006499;
+  border: 1px solid #ccc;
+}
+
+.g li span {
+  position: absolute;
+  color: #fff;
+  top: 30%;
+  z-index: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 130%;
+  line-height: 130%;
+  font-weight: normal;
+}
+
+
+.g img {
+  display: block;
+  width: 100%;
+  z-index: 99;
+  position: relative;
+}
+
+.g img:hover {
+  display: block;
+  width: 100%;
+  opacity: 0.1;
+  transition: opacity 0.3s ease;
+}
+
+.g li:nth-child(odd) {
+  /*clear: left;*/
+}
+
+@media screen and (min-width: 40em) {
+  .g li {
+      width: 33.3333333333333333%; 
+    }
+    .g li:nth-child(3n+1) {
+     /* clear: left;*/
+    }
+    .g li:nth-child(odd) {
+    clear: none;
+  }
+}
+
+@media screen and (min-width: 55em) {
+  .g li {
+      width: 25%; 
+    }
+    .g li:nth-child(4n+1) {
+    /*  clear: left;*/
+    }
+    .g li:nth-child(3n+1) {
+    clear: none;
+  }
+}
+
+@media screen and (min-width: 72em) {
+  .g li {
+      width: 20%; 
+    }
+    .g li:nth-child(5n+1) {
+    /*  clear: left;*/
+    }
+    .g li:nth-child(4n+1) {
+    clear: none;
+  }
+}
+
+@media screen and (min-width: 90em) {
+  .g li {
+      width: 16.666666666%; 
+    }
+    .g li:nth-child(6n+1) {
+      /*clear: left;*/
+    }
+    .g li:nth-child(5n+1) {
+    clear: none;
+  }
+}

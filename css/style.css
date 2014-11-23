@@ -1,0 +1,53 @@
+@media screen and (min-width: 40em) {
+ body {
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 55em) {
+  body {
+    width: 85%;
+  }
+}
+
+@media screen and (min-width: 72em) {
+  body {
+    width: 70%;
+  }
+}
+
+@media screen and (min-width: 90em) {
+  body {
+    width: 50%;
+  }
+}
+
+hr {
+  width: 100%;
+  border-top: 2px solid #E6C5D5;
+}
+
+#projects {
+  margin-bottom: 30px;
+}
+
+ul {
+  list-style-type: circle;
+  list-style-position: inside;
+  margin: 30px 30px 30px 15px;
+}
+
+li {
+  padding-bottom: 10px;
+}
+
+.block {
+  color: #fff;
+  background-color: #1687F3;
+  padding: 6px 8px;
+  font-size: 22px;
+}
+
+h1 img {
+  width: 65px;
+}
