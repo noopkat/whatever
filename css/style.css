@@ -3,6 +3,10 @@ hr {
   border-top: 2px solid #E6C5D5;
 }
 
+.banner, .banner img {
+  width: 100%;
+}
+
 #projects {
   margin-bottom: 30px;
 }
