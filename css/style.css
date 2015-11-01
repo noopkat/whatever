@@ -112,9 +112,17 @@ h1 img {
     font-size: 1em;
   }
 
-  h1, h2, h3 {
+  h2, h3 {
     font-size: 1.5em;
   }
+
+  h1 {
+    font-size: 3em;
+  }
+
+  h1 img {
+  width: 130px;
+}
 
   .block {
     font-size: 1em;
