@@ -105,9 +105,15 @@ h1 img {
 @media only screen and (max-device-width: 736px) {
  body {
     width: 100%;
+    font-size: 2.5em;
   }
   p {
     line-height: 70px;
+    font-size: 1em;
+  }
+
+  h1, h2, h3 {
+    font-size: 1.5em;
   }
 
   .h li img {
@@ -127,10 +133,15 @@ h1 img {
     display: inline;
     float: left;
     width: 100%;
+    font-size: 2.5em;
+  }
+
+  .h h3 {
+    font-size: 3em;
   }
 
   .links {
-    font-size: 2.5em;
+    font-size: 1em;
   }
 
   #public-speaking {
@@ -144,5 +155,6 @@ h1 img {
     line-height: 70px;
     margin-bottom: 50px;
     margin-top: 50px;
+    font-size: 2.5em;
   }
 }
