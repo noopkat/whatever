@@ -13,8 +13,8 @@ hr {
 
 ul {
   list-style-type: circle;
-  list-style-position: inside;
-  margin: 30px 30px 30px 15px;
+  list-style-position: outside;
+  margin: 30px;
 }
 
 li {
@@ -126,6 +126,10 @@ h1 img {
 
   .block {
     font-size: 1em;
+  }
+
+  ul {
+    margin: 50px;
   }
 
   .h li img {
