@@ -78,28 +78,6 @@ h1 img {
   margin-bottom: 0;
 }
 
-@media screen and (max-width: 40em) {
- body {
-    width: 100%;
-  }
-  .h li img {
-    position: relative;
-    width: 100%;
-    float:left;
-    margin-right: 0px;
-    display:block;
-    margin-bottom: 20px;
-  }
-
-  .h li p {
-    position: relative;
-    display: inline;
-    float: left;
-    margin-top: 15px;
-    width: 100%;
-  }
-}
-
 @media screen and (min-width: 40em) {
  body {
     width: 100%;
@@ -121,5 +99,50 @@ h1 img {
 @media screen and (min-width: 90em) {
   body {
     width: 50%;
+  }
+}
+
+@media only screen and (max-device-width: 736px) {
+ body {
+    width: 100%;
+  }
+  p {
+    line-height: 70px;
+  }
+
+  .h li img {
+    position: relative;
+    width: 100%;
+    float:left;
+    margin-right: 0px;
+    display:block;
+    margin-bottom: 60px;
+    margin-top: 20px;
+  }
+
+  .h li p {
+    margin-top: 50px;
+    line-height: 70px;
+    position: relative;
+    display: inline;
+    float: left;
+    width: 100%;
+  }
+
+  .links {
+    font-size: 2.5em;
+  }
+
+  #public-speaking {
+    margin-bottom: 70px;
+  }
+
+  #press, #speaking {
+    margin-top: 50px;
+  }
+  #press li, #speaking li {
+    line-height: 70px;
+    margin-bottom: 50px;
+    margin-top: 50px;
   }
 }
