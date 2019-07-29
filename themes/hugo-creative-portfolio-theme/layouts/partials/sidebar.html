@@ -1,0 +1,23 @@
+<div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
+  <div class="sidebar-content">
+    <p><img src="/headshot.jpg"/></p>
+    <h1 class="sidebar-heading"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+    {{ range .Site.Params.sidebarAbout }}
+      <p class="sidebar-p">{{ . | safeHTML }}</p>
+    {{ end }}
+    <ul class="sidebar-menu">
+      {{ range .Site.Params.navlinks }}
+        <li><a href="{{ absURL .url }}">{{ .name }}</a></li>
+      {{ end }}
+    </ul>
+
+    <ul class="sidebar-menu exlinks">
+      {{ range .Site.Params.exlinks }}
+        <li><a href="{{ absURL .url }}">{{ .name }}</a></li>
+      {{ end }}
+        <li>noopkat [📬] gmail</li>
+    </ul>
+
+    {{ partial "social_buttons_in_sidebar.html" . }}
+  </div>
+</div>

@@ -1,0 +1,140 @@
+/* your styles go here */
+body {
+  background-color: white;
+  border: 15px solid lavender;
+}
+
+#sidebar {
+  padding-top: 15px;
+}
+
+.content-column {
+  padding-top: 10px;
+}
+
+#sidebar img {
+  border: 2px solid #dadada;
+  border-radius: 4px;
+}
+
+#sidebar h1 {
+  font-size: 2.2em;
+  font-family: 'Sarina', sans-serif;
+  text-transform: none;
+}
+
+#sidebar h1 a, .small-navbar.visible-xs h1 a {
+  color: #ff2826;
+}
+
+.sidebar-menu.exlinks li:before {
+  content: '\f005'  ; 
+}
+
+.sidebar-menu li a:hover, .sidebar-menu li a:focus {
+  color: #ff2826 !important;
+}
+
+.sidebar p {
+  color: #555 !important;
+  font-size: 1.4em;
+}
+
+p, .sidebar-p {
+  color: #555 !important;
+}
+
+@media screen and (max-width: 767px) {
+
+ #sidebar.sidebar-offcanvas p {
+    font-size: 0.8em !important;
+  }
+
+  #sidebar.sidebar-offcanvas {
+    left: 0;
+    width: 100%;
+    position: relative;
+    font-size: 2em !important;
+  }
+
+  .row-offcanvas .box-masonry p, .row-offcanvas .masonry-item .box-masonry-text h4 {
+    font-size: 1.4em !important;
+  }
+
+
+  #sidebar h1 {
+    font-size: 1.7em;
+  }
+
+  #sidebar img {
+    width: 100%;
+    display: none;
+  }
+
+  .sidebar-p {
+   display: none;
+  }
+}
+
+.box-masonry .box-masonry-image.with-hover-icon:after {
+  content: '\f0c1' !important;
+}
+
+.box-masonry {
+  border: 1px dashed #cacaca;
+  border-radius: 4px;
+  box-shadow: none;
+}
+
+.box-masonry:hover {
+  border: 1px solid #ff2826;
+  box-shadow: none;
+}
+
+.box-masonry p {
+  color: #555 !important;
+}
+
+.owlposse {
+  max-width: 450px;
+  border: 1px solid #dadada;
+  margin: 0px;
+}
+
+.singleHeading {
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 2.5em;
+}
+
+h2 {
+  font-size: 1.4em;
+  color: #777;
+}
+
+.vcontainer {
+  position: relative;
+  height: 0;
+  overflow: hidden;
+  width: 560px;
+  height: 315px;
+}
+
+.vcontainer .vcontent {
+  position: absolute;
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+}
+
+.vcontainer iframe, .vcontainer object, .vcontainer embed {
+  position: absolute;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  padding: 0;
+}
+

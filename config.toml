@@ -1,0 +1,83 @@
+baseURL = "http://noopkat.com/"
+languageCode = "en-us"
+title = "Suz Hinton."
+theme = "hugo-creative-portfolio-theme"
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "red"
+  description = "Describe your website"
+  copyright = ""
+  sidebarAbout = [
+    "experienced full stack software engineer, tech enthusiast from the nerdiverse.",
+    "programmer / author / nodejs / 3d printing / hardware hacker / nice person"
+  ]
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "you@yoursite.com"
+
+    # Optional Matomo analytics (formerly piwik)
+      # [params.analytics.matomo]
+      #  URL = "https://stats.example.com"
+      #  ID = "42"
+      #  # Track all subdomains with "*.example.com" (Optional)
+      #  domain = "www.example.com"
+      #  # Optional integrity check hash
+      #  hash = ""
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "projects"
+  url = "projects/"
+  home = true
+
+  [[params.navlinks]]
+  name = "talks"
+  url = "talks/"
+
+
+#  [[params.navlinks]]
+#  name = "book list"
+#  url = "booklist/"
+
+  #[[params.navlinks]]
+  #name = "Get in touch"
+  #url = "contact/"
+
+  [[params.exlinks]]
+  name = "twitter"
+  url = "https://twitter.com/noopkat"
+
+  [[params.exlinks]]
+  name = "github"
+  url = "https://github.com/noopkat"
+
+  [[params.exlinks]]
+  name = "twitch"
+  url = "https://twitch.tv/noopkat"
+
+  [[params.exlinks]]
+  name = "youtube"
+  url = "https://youtube.com/c/Noopkat"
+
+  [[params.exlinks]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/susanmhinton"
+
+  #[params.social]
+  #twitter       = "https://twitter.com/noopkat"
+  #linkedin      = "https://www.linkedin.com/in/susanmhinton/"
+  #github        = "https://github.com/noopkat"
+  #youtube       = "https://youtube.com/c/Noopkat"
+  #twitch        = "https://twitch.tv/noopkat"
