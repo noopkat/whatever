@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Suz Hinton.</title>
-    <link>http://noopkat.com/projects/</link>
+    <link>https://noopkat.com/projects/</link>
     <description>Recent content in Projects on Suz Hinton.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Dec 2018 18:25:22 +0530</lastBuildDate>
     
-	<atom:link href="http://noopkat.com/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://noopkat.com/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OLED Js</title>
-      <link>http://noopkat.com/projects/oledjs/</link>
+      <link>https://noopkat.com/projects/oledjs/</link>
       <pubDate>Fri, 07 Oct 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://noopkat.com/projects/oledjs/</guid>
+      <guid>https://noopkat.com/projects/oledjs/</guid>
       <description>Oled-js is a fully JavaScript driven library for controlling SSD1306 OLED screens for hardware projects. Write text, images, lines and shapes in real time.</description>
     </item>
     
     <item>
       <title>PCB Art</title>
-      <link>http://noopkat.com/projects/pcb/</link>
+      <link>https://noopkat.com/projects/pcb/</link>
       <pubDate>Fri, 07 Oct 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://noopkat.com/projects/pcb/</guid>
+      <guid>https://noopkat.com/projects/pcb/</guid>
       <description>&lt;p&gt;A couple of experiments in designing and producing functioning artistic printed circuit boards.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Electric IO</title>
-      <link>http://noopkat.com/projects/electricio/</link>
+      <link>https://noopkat.com/projects/electricio/</link>
       <pubDate>Thu, 06 Dec 2018 18:25:22 +0530</pubDate>
       
-      <guid>http://noopkat.com/projects/electricio/</guid>
+      <guid>https://noopkat.com/projects/electricio/</guid>
       <description>Electric IO is a web based IoT Dashboard compatiple with Azure IoT Hub. It allows for fast protoyping of telemetry displays within a friendly interface. Written with web technologies, Vue, and using NodeJS as a backend.</description>
     </item>
     
     <item>
       <title>Owl Posse</title>
-      <link>http://noopkat.com/projects/owlposse/</link>
+      <link>https://noopkat.com/projects/owlposse/</link>
       <pubDate>Tue, 06 Dec 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://noopkat.com/projects/owlposse/</guid>
+      <guid>https://noopkat.com/projects/owlposse/</guid>
       <description>&lt;p&gt;Owl Posse is a 3D printed contemporary jewellery range designed by Suz Hinton. Inspired by a little bit of steampunk, and a little bit of fantasy, her designs surprise and delight those young at heart. The collection is now retired and unavailable for purchase.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Make: JavaScript Robotics Book</title>
-      <link>http://noopkat.com/projects/book/</link>
+      <link>https://noopkat.com/projects/book/</link>
       <pubDate>Wed, 09 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://noopkat.com/projects/book/</guid>
+      <guid>https://noopkat.com/projects/book/</guid>
       <description>Johnny-Five is an open source JavaScript Arduino programming framework for robotics. This book brings together fifteen innovative programmers, each creating a unique Johnny-Five robot step-by-step, and offering tips and tricks along the way.</description>
     </item>
     
     <item>
       <title>AVRGirl</title>
-      <link>http://noopkat.com/projects/avrgirl/</link>
+      <link>https://noopkat.com/projects/avrgirl/</link>
       <pubDate>Sun, 06 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://noopkat.com/projects/avrgirl/</guid>
+      <guid>https://noopkat.com/projects/avrgirl/</guid>
       <description>The avrgirl project provides a NodeJS alternative to interacting with Atmel® AVR microchips. Compatible with a wide variety of Atmel® products, and the Arduino platform..</description>
     </item>
     
     <item>
       <title>Live Coding Stream</title>
-      <link>http://noopkat.com/projects/twitch/</link>
+      <link>https://noopkat.com/projects/twitch/</link>
       <pubDate>Sun, 06 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://noopkat.com/projects/twitch/</guid>
+      <guid>https://noopkat.com/projects/twitch/</guid>
       <description>A Twitch live coding experience, which guides viewers through what it&amp;rsquo;s like to write and maintain open source software for hardware and internet of things. Streams are weekly on Sundays (currently on hiatus).</description>
     </item>
     
     <item>
       <title>Meow Machine</title>
-      <link>http://noopkat.com/projects/blog/</link>
+      <link>https://noopkat.com/projects/blog/</link>
       <pubDate>Fri, 07 Oct 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://noopkat.com/projects/blog/</guid>
+      <guid>https://noopkat.com/projects/blog/</guid>
       <description>Meow Machine is a blog dedicated to technical explorations and showcasing personal projects. Skewed towards educational content, Suz helps others understand programming, and creative ideas.</description>
     </item>
     
