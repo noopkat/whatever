@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "portfolio-oledjs.png"
+image = "portfolio-oledjs.jpg"
 imagealt = "a protoyping breadboard with oled screen on it displaying a cat picure"
 date = "2016-10-07T18:25:22+05:30"
 title = "OLED Js"

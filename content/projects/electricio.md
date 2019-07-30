@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "portfolio-electricio.png"
+image = "portfolio-electricio.jpg"
 imagealt = "screenshot of electric io IoT dashboard"
 date = "2018-12-06T18:25:22+05:30"
 title = "Electric IO"

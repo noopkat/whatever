@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "portfolio-twitch.gif"
+image = "portfolio-twitch.jpg"
 imagealt = "screenshot of twitch channel video"
 date = "2016-11-06T18:25:22+05:30"
 title = "Live Coding Stream"

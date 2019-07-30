@@ -13,25 +13,21 @@ Suz Hinton has given many talks internationally, including keynotes. A selection
   </div>
 </div>
 
----
 
 ## OSCON 2018 Keynote (live coding)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oQIwe4i_pTo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----
 
 ## Exploring WebUSB
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IpfZ8Nj3uiE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----
 
 ## Refactoring the Dinosaur
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VxxTkhSTJbA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----
 
 ## Between the Layers of JavaScript Hardware
 
