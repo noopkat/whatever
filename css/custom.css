@@ -18,9 +18,13 @@ body {
 }
 
 #sidebar img {
-  border: 2px solid #dadada;
   border-radius: 4px;
   width: 100%;
+}
+
+#sidebar .imgcontainer {
+  border: 2px solid #dadada;
+  margin-right: 15px;
 }
 
 #sidebar h1 {
@@ -113,8 +117,13 @@ p, .sidebar-p {
   }
 
   #sidebar img {
-    width: 100%;
-    display: none;
+    margin-top: -35%;
+  }
+
+  #sidebar .imgcontainer {
+    height: 50px;
+    overflow: hidden;
+    margin-top: 15px;
   }
 
   .sidebar-p {
