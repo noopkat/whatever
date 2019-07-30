@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://noopkat.com/projects/oledjs/</loc>
+    <lastmod>2016-10-07T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://noopkat.com/projects/pcb/</loc>
+    <lastmod>2016-10-07T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://noopkat.com/projects/electricio/</loc>
+    <lastmod>2018-12-06T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://noopkat.com/projects/</loc>
+    <lastmod>2018-12-06T18:25:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://noopkat.com/</loc>
+    <lastmod>2018-12-06T18:25:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://noopkat.com/projects/owlposse/</loc>
+    <lastmod>2016-12-06T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://noopkat.com/projects/book/</loc>
+    <lastmod>2016-11-09T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://noopkat.com/projects/avrgirl/</loc>
+    <lastmod>2016-11-06T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://noopkat.com/projects/twitch/</loc>
+    <lastmod>2016-11-06T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://noopkat.com/projects/blog/</loc>
+    <lastmod>2016-10-07T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://noopkat.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://noopkat.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
